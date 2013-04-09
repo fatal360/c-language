@@ -1,4 +1,0 @@
-c-language
-==========
-
-language
